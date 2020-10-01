@@ -20,3 +20,4 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 
 GitHubbers will be happy to help participants contact security or local law enforcement, escort to safety, or otherwise assist those experiencing harassment to feel safe for the duration of the conference. We value your attendance.
+you can add emojis here using links like 🥳 to mak your repos beautiful
